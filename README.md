@@ -7,3 +7,4 @@
 1. [IS2team -> GoldMine (+1)](https://github.com/KAIST-IS521/2019s-gitctf-GoldMine/issues/1)
 1. [3rdparty -> IS2team (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-IS2team/issues/1)
 1. [3rdparty -> IS2team (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-IS2team/issues/2)
+1. [3rdparty -> IS2team (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-IS2team/issues/3)
