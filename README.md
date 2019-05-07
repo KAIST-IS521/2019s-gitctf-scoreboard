@@ -14,3 +14,4 @@
 1. [GoldMine -> 3rdparty (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-3rdparty/issues/2)
 1. [GoldMine -> IS2team (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-IS2team/issues/6)
 1. [3rdparty -> GoldMine (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-GoldMine/issues/2)
+1. [IS2team -> 3rdparty (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-3rdparty/issues/3)
