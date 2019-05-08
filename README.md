@@ -17,3 +17,4 @@
 1. [IS2team -> 3rdparty (+5)](https://github.com/KAIST-IS521/2019s-gitctf-3rdparty/issues/3)
 1. [IS2team -> 3rdparty (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-3rdparty/issues/4)
 1. [IS2team -> 3rdparty (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-3rdparty/issues/5)
+1. [3rdparty -> IS2team (yet verified)](https://github.com/KAIST-IS521/2019s-gitctf-IS2team/issues/7)
